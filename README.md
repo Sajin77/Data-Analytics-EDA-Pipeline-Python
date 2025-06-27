@@ -35,3 +35,28 @@ The goal is to develop a clear, reproducible pipeline for analysing real-world d
   - Descriptive statistics
   - Visualisation (bar plots, histograms, box plots, heatmaps)
   - Insights and pattern detection
+
+## Learning Outcomes
+
+- Proficiency in Python for data manipulation and visualisation
+- Clear understanding of EDA process and decision-making
+- Practice working with real-world, messy data
+- Strong documentation and code commentary
+
+---
+
+**Note**: This project was completed as part of an academic group assignment. All code and commentary have been reviewed to maintain academic integrity and learning value.
+
+---
+
+## Contributions
+
+Group project with full credit to team members. The version here reflects my personal contributions and clean-up.
+
+---
+
+## Contact
+
+Feel free to reach out or connect:
+- sajinsiyad77@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sajin-siyad-25770b161/)
