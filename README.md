@@ -35,8 +35,3 @@ The goal is to develop a clear, reproducible pipeline for analysing real-world d
   - Descriptive statistics
   - Visualisation (bar plots, histograms, box plots, heatmaps)
   - Insights and pattern detection
-
----
-
-## 📈 Folder Structure
-
